@@ -1,0 +1,16 @@
+{
+  "name": "verificar-idade",
+  "version": "1.0.0",
+  "description": "Atividade prática de verificação de maioridade com Jest",
+  "main": "idade.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
